@@ -30,4 +30,4 @@ Address: Henkestr. 91, 91052 Erlangen
 We're here to help and provide support as needed.
 
 ---
-<sup>[1]</sup> Francesco Negro et al 2016 J. Neural Eng. 13 026027.
+<sup>[1]</sup> Negro, Francesco et al. “Multi-channel intramuscular and surface EMG decomposition by convolutive blind source separation.” Journal of neural engineering vol. 13,2 (2016): 026027. doi:10.1088/1741-2560/13/2/026027
