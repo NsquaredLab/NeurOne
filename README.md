@@ -1,5 +1,6 @@
 # NeurOne - A Digital Motor Unit Interface for the Paralyzed
-Repository containing the executable for NeurOne - A Digital Motor Unit Interface for the Paralyzed.
+Repository containing the executable for NeurOne - A Digital Motor Unit Interface for the Paralyzed. \
+Developed by [Dominik Braun](https://www.nsquared.tf.fau.de/person/dominik-braun/).
 
 # Setup
 1) Download "NeurOne.zip"
@@ -16,9 +17,9 @@ If you incorporate NeurOne into your experimental protocol, we kindly request th
 # Technical Support
 For any technical inquiries or assistance, feel free to reach out to our dedicated team: \
 
-Contact Person: Dominik Braun / Prof. Alessandro Del Vecchio @ Neuromuscular Physiology and Neural Interfacing (N-squared) Lab \
+Contact Person: Dominik Braun / Prof. Alessandro Del Vecchio @ Neuromuscular Physiology and Neural Interfacing ([N-squared](https://www.nsquared.tf.fau.de/)) Lab \
 Email: dome.braun@fau.de / alessandro.del.vecchio@fau.de \
-Affiliation: Department Artificial Intelligence in Biomedical Engineering (AIBE) @ Friedrich-Alexander-Universität Erlangen-Nürnberg  \
+Affiliation: Department Artificial Intelligence in Biomedical Engineering ([AIBE](https://www.aibe.tf.fau.de/)) @ Friedrich-Alexander-Universität Erlangen-Nürnberg ([FAU](https://www.fau.de/)) \
 Address: Henkestr. 91, 91052 Erlangen
 
 
