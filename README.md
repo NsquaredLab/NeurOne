@@ -11,8 +11,12 @@ Developed by [Dominik Braun](https://www.nsquared.tf.fau.de/person/dominik-braun
 # Manual
 
 # Reference
+The foundational decomposition technique employed by NeurOne was derived from a prior work by [Francesco Negro et al.](10.1088/1741-2560/13/2/026027)<sup>[1]</sup>.
+
 If you incorporate NeurOne into your experimental protocol, we kindly request that you reference the following preprint for proper attribution and acknowledgment.
 > TBA
+
+
 
 # Technical Support
 For any technical inquiries or assistance, feel free to reach out to our dedicated team: \
@@ -24,3 +28,6 @@ Address: Henkestr. 91, 91052 Erlangen
 
 
 We're here to help and provide support as needed.
+
+---
+<sup>[1]</sup> Francesco Negro et al 2016 J. Neural Eng. 13 026027.
