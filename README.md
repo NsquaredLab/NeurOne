@@ -1,5 +1,5 @@
-# NeurOne - A Digital Motor Unit Interface for the Paralyzed
-Repository containing the executable for NeurOne - A Digital Motor Unit Interface for the Paralyzed. \
+# NeurOne - High-performance Motor Unit-Computer Interface for the Paralyzed
+Repository containing the manual for NeurOne - High-performance Motor Unit-Computer Interface for the Paralyzed. \
 Developed by [Dominik Braun](https://www.nsquared.tf.fau.de/person/dominik-braun/).
 
 # Setup
