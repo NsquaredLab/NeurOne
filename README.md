@@ -1,10 +1,11 @@
 # NeurOne - High-performance Motor Unit-Computer Interface for the Paralyzed
-Repository containing the manual and executable for NeurOne - High-performance Motor Unit-Computer Interface for the Paralyzed. \
+Repository containing the manual for NeurOne - High-performance Motor Unit-Computer Interface for the Paralyzed. \
+The executable can be found [here](https://drive.google.com/file/d/175JMZU_GW34g8HVj5uf6TwdNbxydxHVN/view?usp=sharing). \
 Developed by [Dominik Braun](https://www.nsquared.tf.fau.de/person/dominik-braun/).
 
 # Setup
-1) Download "NeurOne.zip"
-2) Unzip the compressed folder containing the executable and resources needed to drive NeurOne
+1) Download "NeurOne.zip" from [here](https://drive.google.com/file/d/175JMZU_GW34g8HVj5uf6TwdNbxydxHVN/view?usp=sharing)
+2) Unzip the compressed folder containing the executable and resources needed to start NeurOne
 3) Download and install [OT Biolab Light](https://www.otbioelettronica.it/files/47/Software/148/OTBioLab-v1592.exe) from [OT Bioelettronica SRL](https://www.otbioelettronica.it/) \
    Note: By installing OT BioLab+, OT Biolab Light is installed concurrently
 
