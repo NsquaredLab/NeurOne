@@ -1,7 +1,7 @@
 # NeurOne - High-performance Motor Unit-Computer Interface for the Paralyzed
 Repository containing the manual for NeurOne - High-performance Motor Unit-Computer Interface for the Paralyzed. \
 The executable can be found [here](https://drive.google.com/file/d/175JMZU_GW34g8HVj5uf6TwdNbxydxHVN/view?usp=sharing). \
-A demonstration of NeurOne can be found [here](https://youtu.be/tsaQV0LmQqU?si=DrHBfsRSjfRGabe2). \
+You can find a demonstration [here](https://youtu.be/tsaQV0LmQqU?si=DrHBfsRSjfRGabe2). \
 Developed by [Dominik Braun](https://www.nsquared.tf.fau.de/person/dominik-braun/).
 
 # Setup
