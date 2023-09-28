@@ -15,7 +15,7 @@ Developed by [Dominik Braun](https://www.nsquared.tf.fau.de/person/dominik-braun
 The foundational decomposition technique employed by NeurOne was derived from a prior work by [Francesco Negro et al.](10.1088/1741-2560/13/2/026027)<sup>[1]</sup>.
 
 If you incorporate NeurOne into your experimental protocol, we kindly request that you reference the following preprint for proper attribution and acknowledgment.
-> TBA
+> <div class="csl-entry">Braun, D. I., Oliveira, D. S. de, Bayer, P., Ponfick, M., Kinfe, T. M., &#38; del Vecchio, A. (2023). NeurOne: High-performance Motor Unit-Computer Interface for the Paralyzed. <i>MedRxiv</i>, 2023.09.25.23295902. https://doi.org/10.1101/2023.09.25.23295902</div>
 
 
 
